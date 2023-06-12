@@ -5,19 +5,23 @@
 h1 {
   font-size: 28px;
   margin-bottom: 0px;
+  margin-top: 0px;
   color: white;
   font-weight: bolder;
 }
 
 h2 {
   font-size: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 3px;
+  margin-top: 0px;
   color: white;
   font-weight: bold;
 }
 
 h3 {
   font-size: 16px;
+  margin-bottom: 15px;
+  margin-top: 0px;
   color: white;
   font-weight: normal;
 }
@@ -26,7 +30,7 @@ body {
   margin: 0;
   font-family: "Quicksand", sans-serif;
   background: linear-gradient(to bottom, #0F2755, #6267FF);
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 .right-image {
@@ -38,7 +42,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 10px;
 }
 
 .container {
@@ -61,6 +64,7 @@ body {
 
 .notif {
   margin-left: 10px;
+  padding-top: 0px;
 }
 
 .notif a {
@@ -188,6 +192,10 @@ body {
   font-size: 28px;
   color: white;
   font-weight: bolder;
+}
+
+.my-feed-container img {
+  padding-top: 20px;
 }
 
 .rounded-rectangle h3 {
