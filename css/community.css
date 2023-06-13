@@ -30,7 +30,7 @@ body {
   margin: 0;
   font-family: "Quicksand", sans-serif;
   background: linear-gradient(to bottom, #0F2755, #6267FF);
-  margin-bottom: 0px;
+  margin-bottom: 40px;
 }
 
 .right-image {
@@ -177,7 +177,7 @@ body {
   background-color: #ACADD3;
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
-  height: 100vh;
+  height: auto;
   width: 100%;
 }
 
